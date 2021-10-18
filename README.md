@@ -45,11 +45,12 @@ January 2014 - December 2014
 ● Netgear Devices Tech Support, Router, Switch, Hub etc
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### SKILLS
 ```markdown
-Java, Kotlin, Android, Git, Data Structure, Algorithms, MVVM, RxJava, Android Jetpack(Room, Work Manager, Live Data, View Model, Navigation, Live Data, Data Binding), Firebase …
+Java, Kotlin, Android, Git, Data Structure, Algorithms, MVVM, RxJava,
+Android Jetpack(Room, Work Manager, Live Data, View Model, Navigation,
+Live Data, Data Binding), Firebase …
 ```
 
 ### EDUCATION
