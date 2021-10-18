@@ -49,12 +49,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### SKILLS
 ```markdown
-[Java, Kotlin, Android, Git, Data 
-Structure, Algorithms, MVVM, 
-RxJava, Android Jetpack(Room, 
-Work Manager, Live Data, View 
-Model, Navigation, Live Data, 
-Data Binding), Firebase …]
+Java, Kotlin, Android, Git, Data Structure, Algorithms, MVVM, RxJava, Android Jetpack(Room, Work Manager, Live Data, View Model, Navigation, Live Data, Data Binding), Firebase …
 ```
 
 ### EDUCATION
